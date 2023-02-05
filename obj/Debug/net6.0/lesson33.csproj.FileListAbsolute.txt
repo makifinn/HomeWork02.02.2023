@@ -1,0 +1,15 @@
+C:\Users\maki\Desktop\lesson33\bin\Debug\net6.0\lesson33.exe
+C:\Users\maki\Desktop\lesson33\bin\Debug\net6.0\lesson33.deps.json
+C:\Users\maki\Desktop\lesson33\bin\Debug\net6.0\lesson33.runtimeconfig.json
+C:\Users\maki\Desktop\lesson33\bin\Debug\net6.0\lesson33.dll
+C:\Users\maki\Desktop\lesson33\bin\Debug\net6.0\lesson33.pdb
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.csproj.AssemblyReference.cache
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.AssemblyInfoInputs.cache
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.AssemblyInfo.cs
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.csproj.CoreCompileInputs.cache
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.dll
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\refint\lesson33.dll
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.pdb
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\lesson33.genruntimeconfig.cache
+C:\Users\maki\Desktop\lesson33\obj\Debug\net6.0\ref\lesson33.dll
